@@ -1,0 +1,87 @@
+ADATKEZELÉSI TÁJÉKOZTATÓ
+a kapcsolatfelvételi űrlap használatához
+Hatályos: 2026. július 1. napjától
+1. Az adatkezelő
+Adatkezelő neve
+Szabad Sajtó Alapítvány
+Székhely
+1119 Budapest, Mérnök utca 40. ajtó 2.
+E-mail-cím
+info@szabadsajtoalapitvany.hu
+A továbbiakban
+Alapítvány vagy Adatkezelő
+Az Alapítvány honlapján elérhető kapcsolatfelvételi űrlapok célja, hogy a látogatók kérdéseket, észrevételeket, javaslatokat és egyéb üzeneteket küldhessenek az Alapítványnak.
+Jelen tájékoztató az Európai Parlament és a Tanács természetes személyek személyes adatainak kezeléséről szóló 2016/679/EU rendelete (GDPR) alapján tartalmazza az adatkezelésre vonatkozó információkat.
+2. Az adatkezelés célja, jogalapja és időtartama
+Az adatkezelés célja
+Kezelt személyes adatok
+Az adatkezelés jogalapja
+Az adatkezelés időtartama
+Kapcsolatfelvétel, a beérkezett üzenet megválaszolása, az üggyel kapcsolatos kapcsolattartás és ügyintézés.
+Név, e-mail-cím, opcionálisan megadott telefonszám, az üzenet tárgya és tartalma, az üzenet elküldésének időpontja, valamint az űrlapszolgáltató által kezelt technikai adatok, így különösen az IP-cím és a böngészővel kapcsolatos adatok.
+Az Alapítvány jogos érdeke a hozzá érkező megkeresések fogadásához és megválaszolásához [GDPR 6. cikk (1) bekezdés f) pont]. Szerződéskötést megelőző megkeresés esetén a GDPR 6. cikk (1) bekezdés b) pontja.
+Az ügy lezárásáig, ezt követően legfeljebb két évig. Jogi igény, hatósági megkeresés vagy jogszabályi kötelezettség esetén az ennek kezeléséhez szükséges ideig.
+Az Alapítvány jogos érdeke, hogy a hozzá forduló személyekkel kommunikálni tudjon, megkereséseiket megválaszolja, valamint az adott ügyben folytatott levelezést szükség esetén visszakereshető módon megőrizze. Különös tekintettel az Alapítvány által hirdetett programokra, eseményekre, találkozókra, rendezvényekre, pályázatokra, amelyek lebonyolítása során szintén az Alapítvány jogos érdeke, hogy ez érintettekkel kommunikálni tudjon, részükre adatokat tudjon biztosítani.
+Az Alapítvány a kapcsolatfelvételi űrlapon megadott adatokat nem használja fel automatikusan hírlevélküldésre, kizárólag azon címeket, amelyek tulajdonosai ehhez célzottan hozzájárulnak. Az Alapítvány fenntartja a jogot, hogy a későbbiek során meghívókat, saját eseményeiről szóló információkat, akciókat, adományozásra vonatkozó információkat marketingmegkeresés formájában eljuttasson az érintettekhez.
+3. Az adatszolgáltatás önkéntessége
+A kapcsolatfelvételi űrlap és minden további szabadsajtoalapitvany.hu-n használt űrlap használata önkéntes.
+A válaszadáshoz legalább egy működő kapcsolattartási adat, jellemzően az e-mail-cím megadása szükséges. Amennyiben az érintett nem ad meg olyan elérhetőséget, amelyen válaszolni lehet, az Alapítvány a megkeresésre nem feltétlenül tud választ küldeni.
+A telefonszám megadása csak akkor szükséges, ha az érintett telefonos kapcsolatfelvételt kér.
+4. Különleges személyes adatok
+Az Alapítvány a kapcsolatfelvételi űrlapon nem kér és nem kíván kezelni a GDPR 9. cikke szerinti különleges személyes adatokat, így például egészségi állapotra, vallási vagy világnézeti meggyőződésre, politikai véleményre, szexuális életre vagy szexuális irányultságra vonatkozó adatokat.
+Kérjük, hogy az üzenetben ilyen adatokat csak akkor adjon meg, ha az az ügy intézéséhez feltétlenül szükséges.
+5. Adatfeldolgozók és igénybe vett szolgáltatók
+5.1. Formspree, Inc.
+Az Alapítvány a kapcsolatfelvételi űrlap technikai működtetéséhez a Formspree, Inc. szolgáltatását veszi igénybe.
+A Formspree feladata különösen:
+az űrlapon megadott adatok fogadása;
+az üzenetek továbbítása az Alapítvány részére;
+az űrlap működtetése és a kéretlen vagy visszaélésszerű üzenetek szűrése;
+az űrlapbeküldések technikai tárolása.
+A Formspree az űrlap tartalma mellett technikai adatokat, így IP-címet, böngészőtípust, hozzáférési időpontot és hivatkozó webcímet is kezelhet. A szolgáltatás amerikai infrastruktúrát és az Amazon Web Services szolgáltatásait használhatja. A Formspree tájékoztatása szerint az Európai Gazdasági Térségen kívüli adattovábbításokhoz az Európai Bizottság által elfogadott általános szerződési feltételekre (SCC-kre) támaszkodik.
+A szolgáltató adatvédelmi tájékoztatója: Formspree Privacy Policy
+5.2. Google Ireland Limited
+Az űrlapon érkező üzenetek az Alapítvány Google által biztosított elektronikus levelezési fiókjába érkeznek.
+A Google szolgáltatásainak használata során az adatok az Európai Gazdasági Térségen kívül is feldolgozhatók. A Google tájékoztatása szerint az adattovábbítás jogalapját az adott esetben megfelelőségi határozatok, az EU–USA adatvédelmi keretrendszer, illetve az Európai Bizottság által elfogadott általános szerződési feltételek biztosíthatják.
+A szolgáltató adatvédelmi tájékoztatója: Google Privacy & Terms
+Az adatokhoz az Alapítvány azon kuratóriumi tagjai, munkatársai vagy közreműködői férhetnek hozzá, akiknek az adott megkeresés megválaszolása vagy intézése a feladata.
+6. A személyes adatok továbbítása
+Az Alapítvány az adatokat a jelen tájékoztatóban megjelölt szolgáltatókon, valamint az ügy intézésében feladatkörük alapján részt vevő személyeken kívül harmadik személynek nem továbbítja, kivéve, ha:
+az érintett ehhez kifejezetten hozzájárul;
+az adattovábbítást jogszabály írja elő;
+hatóság vagy bíróság jogszerű megkeresést intéz az Alapítványhoz;
+az adattovábbítás jogi igény előterjesztéséhez, érvényesítéséhez vagy védelméhez szükséges.
+7. Automatizált döntéshozatal és profilalkotás
+Az Alapítvány a kapcsolatfelvételi űrlapon megadott személyes adatok alapján nem végez automatizált döntéshozatalt és nem alkot profilt.
+8. Az érintett jogai
+Az érintett jogosult:
+tájékoztatást kérni arról, hogy az Alapítvány kezeli-e a személyes adatait;
+hozzáférést kérni a kezelt személyes adatokhoz;
+kérni a pontatlan személyes adatok helyesbítését;
+a jogszabályi feltételek fennállása esetén kérni a személyes adatok törlését;
+kérni az adatkezelés korlátozását;
+tiltakozni a jogos érdeken alapuló adatkezelés ellen;
+panaszt tenni a Nemzeti Adatvédelmi és Információszabadság Hatóságnál;
+jogainak megsértése esetén bírósághoz fordulni.
+Tiltakozás esetén az Alapítvány a személyes adatokat nem kezelheti tovább, kivéve, ha bizonyítja, hogy az adatkezelést olyan kényszerítő erejű jogos ok indokolja, amely elsőbbséget élvez az érintett érdekeivel és jogaival szemben, vagy az adatkezelés jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez szükséges.
+9. Érintetti kérelmek
+Az adatkezeléssel kapcsolatos kérdések, észrevételek és kérelmek az alábbi elérhetőségeken küldhetők meg:
+E-mail
+info@szabadsajtoalapitvany.hu
+Postai cím
+Szabad Sajtó Alapítvány, 1119 Budapest, Mérnök utca 40. ajtó 2.
+Az Alapítvány az érintetti kérelmet indokolatlan késedelem nélkül, főszabály szerint a beérkezéstől számított egy hónapon belül bírálja el.
+10. Jogorvoslat
+Az érintett az adatkezeléssel kapcsolatos panaszával a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulhat.
+Hatóság
+Nemzeti Adatvédelmi és Információszabadság Hatóság
+Cím
+1055 Budapest, Falk Miksa utca 9–11.
+Levelezési cím
+1363 Budapest, Pf. 9.
+E-mail
+ugyfelszolgalat@naih.hu
+Telefon
++36 1 391 1400
+Honlap: www.naih.hu
+Az érintett az adatkezelő székhelye, illetve saját lakóhelye vagy tartózkodási helye szerint illetékes törvényszékhez is fordulhat.

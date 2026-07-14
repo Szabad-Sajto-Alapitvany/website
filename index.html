@@ -7,7 +7,9 @@
     <meta name="description" content="A Szabad Sajtó Alapítvány a független, fenntartható és demokratikus nyilvánosságért, a médiatudatosság fejlesztéséért és a közéleti részvétel megerősítéséért dolgozik." />
     <meta property="og:title" content="Szabad Sajtó Alapítvány" />
     <meta property="og:description" content="A Szabad Sajtó Alapítvány a független, fenntartható és demokratikus nyilvánosságért dolgozik." />
-    <meta property="og:image" content="assets/images/szasalogo.png" />
+    <meta property="og:image" content="assets/images/photo-home-editorial.png" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
     <link rel="stylesheet" href="assets/css/style.css" />
   </head>
   <body>
@@ -39,6 +41,9 @@
               <a class="button button-secondary" href="szabad-sajto-dij.html">A Szabad Sajtó-díjról</a>
               <a class="button button-ghost" href="palyazatok.html">Pályázatok</a>
             </div>
+            <figure class="home-hero-photo">
+              <img src="assets/images/photo-home-editorial.png" alt="Szerkesztőségi hangulatú asztal újságokkal, jegyzetfüzettel és laptoppal" />
+            </figure>
           </div>
         </div>
       </section>
@@ -60,6 +65,17 @@
         </div>
       </section>
 
+      <section class="page-section tight">
+        <div class="container grants-row">
+          <header class="section-header">
+            <p class="eyebrow">Pályázatok</p>
+            <h2>Pályázatok</h2>
+            <p>Az Alapítvány pályázati felhívásai ezen az oldalon lesznek elérhetők. Az aktuális kiírások célja, hogy szakmai munkákat, közösségi kezdeményezéseket és a demokratikus nyilvánosságot erősítő programokat támogassanak.</p>
+          </header>
+          <a class="button button-ghost" href="palyazatok.html">Aktuális pályázatok</a>
+        </div>
+      </section>
+
       <section class="page-section band">
         <div class="container grid two">
           <div>
@@ -72,10 +88,30 @@
             <a class="button button-primary" href="alapitvany.html">Tovább az Alapítványról</a>
           </div>
           <div class="value-grid">
-            <div>Sajtószabadság</div>
-            <div>Fenntartható nyilvánosság</div>
-            <div>Médiatudatosság</div>
-            <div>Demokratikus közösségek</div>
+            <div>
+              <span class="value-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M4 20l4.2-1 9.9-9.9a2.4 2.4 0 0 0-3.4-3.4L4.8 15.6 4 20z" /><path d="M13.5 6.9l3.6 3.6" /><path d="M8.2 19 5 15.8" /></svg>
+              </span>
+              <span>Sajtószabadság</span>
+            </div>
+            <div>
+              <span class="value-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M4 13a8 8 0 0 1 13.7-5.7" /><path d="M20 11a8 8 0 0 1-13.7 5.7" /><path d="M17 3v4h-4" /><path d="M7 21v-4h4" /></svg>
+              </span>
+              <span>Fenntartható nyilvánosság</span>
+            </div>
+            <div>
+              <span class="value-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M2.8 12s3.4-6 9.2-6 9.2 6 9.2 6-3.4 6-9.2 6-9.2-6-9.2-6z" /><circle cx="12" cy="12" r="2.8" /><path d="M16.8 17.3 20 20.5" /></svg>
+              </span>
+              <span>Médiatudatosság</span>
+            </div>
+            <div>
+              <span class="value-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" /><path d="M16 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" /><path d="M3.5 19a4.5 4.5 0 0 1 9 0" /><path d="M11.5 19a4.5 4.5 0 0 1 9 0" /></svg>
+              </span>
+              <span>Demokratikus közösségek</span>
+            </div>
           </div>
         </div>
       </section>
@@ -92,17 +128,6 @@
         </div>
       </section>
 
-      <section class="page-section tight">
-        <div class="container grants-row">
-          <header class="section-header">
-            <p class="eyebrow">Pályázatok</p>
-            <h2>Pályázatok</h2>
-            <p>Az Alapítvány pályázati felhívásai ezen az oldalon lesznek elérhetők. Az aktuális kiírások célja, hogy szakmai munkákat, közösségi kezdeményezéseket és a demokratikus nyilvánosságot erősítő programokat támogassanak.</p>
-          </header>
-          <a class="button button-ghost" href="palyazatok.html">Aktuális pályázatok</a>
-        </div>
-      </section>
-
       <section id="kapcsolat" class="page-section contact">
         <div class="container contact-grid">
           <div>
@@ -110,15 +135,39 @@
             <h2>Kapcsolat</h2>
             <p class="muted">Kapcsolatfelvétel szakmai együttműködés, sajtómegkeresés, dokumentumok, díjazottak archívuma vagy az Alapítvány működésével kapcsolatos kérdések ügyében.</p>
             <div class="button-row"><a class="button button-primary" href="mailto:info@szabadsajtoalapitvany.hu">Email küldése</a></div>
+            <dl class="contact-details">
+              <dt>Név</dt>
+              <dd>Szabad Sajtó Alapítvány</dd>
+              <dt>Székhely</dt>
+              <dd>1119 Budapest, Mérnök utca 40. 2. ajtó</dd>
+              <dt>Email</dt>
+              <dd><a href="mailto:info@szabadsajtoalapitvany.hu">info@szabadsajtoalapitvany.hu</a></dd>
+            </dl>
           </div>
-          <dl>
-            <dt>Név</dt>
-            <dd>Szabad Sajtó Alapítvány</dd>
-            <dt>Székhely</dt>
-            <dd>1119 Budapest, Mérnök utca 40. 2. ajtó</dd>
-            <dt>Email</dt>
-            <dd><a href="mailto:info@szabadsajtoalapitvany.hu">info@szabadsajtoalapitvany.hu</a></dd>
-          </dl>
+          <form class="site-form" action="https://formspree.io/f/mvzegaaa" method="POST">
+            <input type="hidden" name="_subject" value="Kapcsolati üzenet - Szabad Sajtó Alapítvány" />
+            <label>
+              <span>Név</span>
+              <input type="text" name="nev" autocomplete="name" required />
+            </label>
+            <label>
+              <span>Email</span>
+              <input type="email" name="email" autocomplete="email" required />
+            </label>
+            <label>
+              <span>Tárgy</span>
+              <input type="text" name="targy" required />
+            </label>
+            <label>
+              <span>Üzenet</span>
+              <textarea name="uzenet" rows="6" required></textarea>
+            </label>
+            <label class="checkbox-field">
+              <input type="checkbox" name="adatkezeles_elfogadva" value="igen" required />
+              <span>Hozzájárulok, hogy az Alapítvány az üzenetem megválaszolása céljából kezelje a megadott adataimat, és tudomásul vettem az <a href="adatvedelmi-tajekoztato.html">adatvédelmi tájékoztatót</a>.</span>
+            </label>
+            <button class="button button-primary" type="submit">Üzenet küldése</button>
+          </form>
         </div>
       </section>
     </main>
@@ -126,7 +175,7 @@
     <footer class="site-footer">
       <div class="footer-inner">
         <div><img src="assets/images/szasalogo.png" alt="Szabad Sajtó Alapítvány logó" /><p>A szabad, sokszínű és demokratikus nyilvánosságért.</p></div>
-        <nav aria-label="Lábléc navigáció"><a href="alapitvany.html">Az Alapítvány</a><a href="szabad-sajto-dij.html">Szabad Sajtó-díj</a><a href="palyazatok.html">Pályázatok</a><a href="#kapcsolat">Kapcsolat</a></nav>
+        <nav aria-label="Lábléc navigáció"><a href="alapitvany.html">Az Alapítvány</a><a href="szabad-sajto-dij.html">Szabad Sajtó-díj</a><a href="palyazatok.html">Pályázatok</a><a href="#kapcsolat">Kapcsolat</a><a href="adatvedelmi-tajekoztato.html">Adatvédelmi tájékoztató</a></nav>
         <address><strong>Szabad Sajtó Alapítvány</strong><span>Székhely: 1119 Budapest, Mérnök utca 40. 2. ajtó</span><a href="mailto:info@szabadsajtoalapitvany.hu">info@szabadsajtoalapitvany.hu</a></address>
       </div>
       <div class="copyright">© Szabad Sajtó Alapítvány. Minden jog fenntartva.</div>
