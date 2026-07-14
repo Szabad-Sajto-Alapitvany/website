@@ -97,3 +97,67 @@ function filterCards() {
 
 searchInput?.addEventListener("input", filterCards);
 yearSelect?.addEventListener("change", filterCards);
+
+const ajaxForms = Array.from(document.querySelectorAll('form.site-form[action^="https://formspree.io/f/"]'));
+
+function getFormStatus(form) {
+  let status = form.querySelector(".form-status");
+  if (!status) {
+    status = document.createElement("p");
+    status.className = "form-status";
+    status.setAttribute("role", "status");
+    status.setAttribute("aria-live", "polite");
+    form.append(status);
+  }
+  return status;
+}
+
+function setFormStatus(form, message, type) {
+  const status = getFormStatus(form);
+  status.textContent = message;
+  status.classList.remove("is-success", "is-error");
+  status.classList.add(type === "success" ? "is-success" : "is-error");
+}
+
+ajaxForms.forEach((form) => {
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    if (!form.reportValidity()) return;
+
+    const submitButton = form.querySelector('button[type="submit"]');
+    const originalButtonText = submitButton?.textContent ?? "";
+    const formData = new FormData(form);
+
+    form.classList.add("is-submitting");
+    if (submitButton) {
+      submitButton.disabled = true;
+      submitButton.textContent = "Küldés folyamatban...";
+    }
+
+    try {
+      const response = await fetch(form.action, {
+        method: form.method,
+        body: formData,
+        headers: {
+          Accept: "application/json",
+        },
+      });
+
+      if (!response.ok) {
+        throw new Error("Form submission failed");
+      }
+
+      form.reset();
+      setFormStatus(form, form.dataset.successMessage ?? "Köszönjük, az űrlap sikeresen elküldve.", "success");
+    } catch {
+      setFormStatus(form, "A beküldés most nem sikerült. Kérjük, próbálja meg újra, vagy írjon emailt az info@szabadsajtoalapitvany.hu címre.", "error");
+    } finally {
+      form.classList.remove("is-submitting");
+      if (submitButton) {
+        submitButton.disabled = false;
+        submitButton.textContent = originalButtonText;
+      }
+    }
+  });
+});
