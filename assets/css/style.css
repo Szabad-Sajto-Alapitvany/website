@@ -226,7 +226,7 @@ h1 {
   overflow: hidden;
 }
 
-.home-hero-photo img,
+.home-hero-photo-image,
 .page-hero-photo img {
   aspect-ratio: 16 / 9;
   height: 100%;
@@ -236,6 +236,21 @@ h1 {
 
 .home-hero-photo {
   box-shadow: var(--shadow-soft);
+  position: relative;
+}
+
+.home-hero-logo {
+  background: rgb(255 255 255 / 92%);
+  border: 1px solid rgb(221 214 204 / 80%);
+  border-radius: 8px;
+  box-shadow: 0 16px 36px rgb(11 29 38 / 16%);
+  display: block;
+  height: auto;
+  left: clamp(14px, 3vw, 30px);
+  padding: clamp(8px, 1.6vw, 16px);
+  position: absolute;
+  top: clamp(14px, 3vw, 30px);
+  width: clamp(96px, 18vw, 210px);
 }
 
 .page-hero-photo {
